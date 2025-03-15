@@ -1,7 +1,9 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Arunu Kithmina+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Hi+%2C+I'm+Arunu+Kithmina🎓+%F0%9F%91%8B+%F0%9F%8E%93" alt="Typing SVG" /></a>
 </h1>
+
+
 <h3 align="center">Aspiring IT Professional | Navigating the Vast Landscape of Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arunu123&label=Profile%20views&color=0e75b6&style=flat" alt="arunu123" /> </p>
