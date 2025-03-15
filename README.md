@@ -13,13 +13,13 @@
 
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-- 🔭 I’m currently working on **Blog system**
+- 🔭 I’m currently working on **My final year project(MediConnect)**
 
-- 🌱 I’m currently learning **ReactJs,Flutter**
+- 🌱 I’m currently learning **ReactJs,Nodejs,ReactNative,Flutter**
 
 - 👯 I’m Undergraduate at **KDU**
 
-- 🤝 I’m looking for help with **Java,PHP**
+- 🤝 I’m looking for help with **PHP,React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arunu123](https://github.com/Arunu123)
 
